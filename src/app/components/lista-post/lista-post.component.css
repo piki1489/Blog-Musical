@@ -39,6 +39,7 @@ article {
 
 article img {
   max-width: 180px;
+  max-height: 180px;
   border: 2px solid black;
 }
 

@@ -15,7 +15,7 @@ export class BlogService {
         text: 'Master of Puppets es el tercer álbum de estudio del grupo musical de thrash metal estadounidense Metallica',
         author: 'Metallica',
         image: 'https://m.media-amazon.com/images/I/81j7xM-oijL._SY355_.jpg',
-        date: 0,
+        date: '1986-03-03',
         category: 'metall-hardrock'
       },
       {
@@ -23,7 +23,7 @@ export class BlogService {
         text: 'Iowa es el segundo álbum de estudio de la banda estadounidense de metal alternativo Slipknot, lanzado a través de Roadrunner Records.',
         author: 'Slipknot',
         image: 'https://m.media-amazon.com/images/I/71zfiinJ7sL._SX355_.jpg',
-        date: 0,
+        date: '2001-08-28',
         category: 'metall-hardrock'
       },
       {
@@ -31,7 +31,7 @@ export class BlogService {
         text: 'Origin of Symmetry —en español: El origen de la simetría— es el segundo álbum de estudio de la banda británica de rock, Muse',
         author: 'Muse',
         image: 'https://m.media-amazon.com/images/I/61kq0FY0ZBL._AC_UY218_.jpg',
-        date: 0,
+        date: '2001-06-18',
         category: 'rock'
       },
       {
@@ -39,7 +39,7 @@ export class BlogService {
         text: 'Imaginations from the Other Side es el quinto disco del grupo alemán de power metal Blind Guardian, lanzado en 1995',
         author: 'Blind Guardian',
         image: 'https://m.media-amazon.com/images/I/81CnNVpOBiL._AC_UY218_.jpg',
-        date: 0,
+        date: '1985-10-16',
         category: 'heavy'
       },
       {
@@ -47,7 +47,7 @@ export class BlogService {
         text: 'The Number of the Beast es el tercer álbum de estudio de la banda británica de heavy metal Iron Maiden.',
         author: 'Iron Maiden',
         image: 'https://m.media-amazon.com/images/I/81vfiy9qNiL._AC_UY218_.jpg',
-        date: 0,
+        date: '1982-03-22',
         category: 'heavy'
       },
       {
@@ -55,7 +55,7 @@ export class BlogService {
         text: 'OK Computer es el tercer álbum de estudio de la banda británica de rock alternativo Radiohead, lanzado el 21 de mayo de 1997',
         author: 'Radiohead',
         image: 'https://m.media-amazon.com/images/I/51Nc40BMGnL._AC_UY218_.jpg',
-        date: 0,
+        date: '1997-05-21',
         category: 'rock'
       },
       {
@@ -63,7 +63,7 @@ export class BlogService {
         text: 'Antichrist Superstar es el segundo álbum de estudio de la banda estadounidense de metal industrial Marilyn Manson.',
         author: 'Marilyn Manson',
         image: 'https://m.media-amazon.com/images/I/51JcOHj46zL._SX355_.jpg',
-        date: 0,
+        date: '1996-09-17',
         category: 'metall-hardrock'
       },
       {
@@ -71,7 +71,7 @@ export class BlogService {
         text: 'The Colour and the Shape es el segundo álbum de la banda Foo Fighters. Fue lanzado al mercado el 20 de mayo de 1997',
         author: 'Foo Fighters',
         image: 'https://m.media-amazon.com/images/I/61VZ-Y46h+L._AC_UY218_.jpg',
-        date: 0,
+        date: '1997-05-20',
         category: 'rock'
       }
 
